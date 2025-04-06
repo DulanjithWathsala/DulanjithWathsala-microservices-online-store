@@ -2,7 +2,6 @@ package edu.orgname.microservices.product.controller;
 
 import edu.orgname.microservices.product.dto.ProductRequest;
 import edu.orgname.microservices.product.dto.ProductResponse;
-import edu.orgname.microservices.product.model.Product;
 import edu.orgname.microservices.product.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
